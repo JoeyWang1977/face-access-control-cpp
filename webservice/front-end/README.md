@@ -19,6 +19,7 @@ Based on the Amplified starter kit, which uses...
 Install dependencies:
 ```
 npm install
+npm install webpack-dev-server@2.9.7 --save-dev
 ```
 
 ### Development
